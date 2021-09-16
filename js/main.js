@@ -1,4 +1,4 @@
-let number = "12";
+let number = 12;
 console.log(number);
 
 if (number > 10) {
